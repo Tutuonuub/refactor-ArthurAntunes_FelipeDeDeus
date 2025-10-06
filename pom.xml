@@ -19,7 +19,7 @@
     <description>Atividade Refatoracao Design Patterns</description>
 
     <properties>
-        <java.version>17</java.version>
+        <java.version>17</java.version> <!-- Comentário de Revisão: A versão do Java está definida como 17. Certifique-se de que o ambiente de execução e compilação suporta esta versão. Se o ambiente for Java 11, considere alterar para <java.version>11</java.version> e ajustar a versão do spring-boot-starter-parent para 2.7.18 para compatibilidade. -->
     </properties>
 
     <dependencies>
